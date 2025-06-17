@@ -1,0 +1,19 @@
+{
+  "name": "cypress_e2e",
+  "version": "1.0.0",
+  "description": "Testing Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "cypress"
+  ],
+  "author": "Andres Pineda",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^14.4.1"
+  }
+}
